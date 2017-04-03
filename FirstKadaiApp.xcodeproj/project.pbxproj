@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					D868190F1E9250F1004590A1 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = NWN6RK793R;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,7 +259,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NWN6RK793R;
 				INFOPLIST_FILE = FirstKadaiApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.yuta.iwashina.FirstKadaiApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -270,7 +273,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NWN6RK793R;
 				INFOPLIST_FILE = FirstKadaiApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.yuta.iwashina.FirstKadaiApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
